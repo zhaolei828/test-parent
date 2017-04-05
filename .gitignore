@@ -1,0 +1,10 @@
+/*.iml
+/test-stomp/*.iml
+/test-ws-mq/*.iml
+/test-zuul-parent/test-zuul-a/*.iml
+/test-zuul-parent/test-zuul-b/*.iml
+/test-zuul-parent/*.iml
+/test-zuul-parent/test-zuul-service/*.iml
+/test-zuul-parent/test-zuul-service/target
+/test-zuul-parent/test-zuul-b/target
+/test-zuul-parent/test-zuul-a/target
